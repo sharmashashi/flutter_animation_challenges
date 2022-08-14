@@ -1,10 +1,6 @@
 # flutter_animation_challenges
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+A projects showing different pages with animation within it.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +10,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Animated pages
+- [Weather by BeardChicken on Dribbble](https://dribbble.com/shots/1362152-Weather)
+
+  ![Image](screenshots/weather/weather.png) 
+  ![Video](screenshots/weather/weather.mov)

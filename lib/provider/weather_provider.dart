@@ -19,12 +19,12 @@ class WeatherProvider extends StateNotifier {
   final minimumTemperature = "-98\u00b0";
   final maximumTemperature = "-2\u00b0";
   final location = "Kathmandu, Nepal";
-  final temperatureList = [
-    "-20\u00b0",
-    "-50\u00b0",
-    "-16\u00b0",
-    "-37\u00b0",
-    "-10\u00b0",
+  final List<double> temperatureList = [
+    -20,
+    -50,
+    -16,
+    -37,
+    -10,
   ];
   final weatherDescription = "Snow turn to Cloudy";
   final appBarText = "Weather";

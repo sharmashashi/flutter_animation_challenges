@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "2b5e44d00e5aaf869086c162b892b3a75ce712ed92a4b0cc36331011896ffae3"
+build_start_time: [1660472178, 198408126]
+build_end_time: [1660472181, 746387004]
+inputs:
+  "/Users/shashisharma/Projects/flutter/flutter_animation_challenges/ios/Runner/AppDelegate.swift": [1650309730, 0]
