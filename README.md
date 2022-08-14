@@ -15,4 +15,4 @@ samples, guidance on mobile development, and a full API reference.
 - [Weather by BeardChicken on Dribbble](https://dribbble.com/shots/1362152-Weather)
 
   ![Image](screenshots/weather/weather.png) 
-  <video src='screenshots/weather/weather.mov' width=500/>
+  ![](screenshots/weather/weather.gif)
